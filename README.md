@@ -1,6 +1,6 @@
 # Tugas 1 Pemrograman Aplikasi Mobile - Konsep Pemrograman Dart
 
-Repositori ini berisi implementasi program Command Line Interface (CLI) menggunakan bahasa pemrograman Dart untuk memenuhi tugas praktikum mata kuliah Pemrograman Aplikasi Mobile[cite: 1].
+Repositori ini berisi implementasi program Command Line Interface (CLI) menggunakan bahasa pemrograman Dart untuk memenuhi tugas praktikum mata kuliah Pemrograman Aplikasi Mobile.
 
 ---
 
@@ -16,15 +16,15 @@ Repositori ini berisi implementasi program Command Line Interface (CLI) mengguna
 
 ## Fitur Program
 
-Program ini dibangun dengan konsep modular dan mencakup beberapa fitur utama sesuai kriteria tugas modul[cite: 1]:
+Program ini dibangun dengan konsep modular dan mencakup beberapa fitur utama sesuai kriteria tugas modul:
 
-1. **Sistem Autentikasi Mahasiswa:** Login menggunakan validasi Nama Lengkap dan NIM anggota kelompok[cite: 1].
-2. **Data Kelompok:** Menampilkan daftar anggota tim beserta NIM[cite: 1].
+1. **Sistem Autentikasi Mahasiswa:** Login menggunakan validasi Nama Lengkap dan NIM anggota kelompok.
+2. **Data Kelompok:** Menampilkan daftar anggota tim beserta NIM.
 3. **Kalkulator Operasi Aritmatika:**
-   - Penjumlahan dan Pengurangan[cite: 1]
-   - Perkalian dan Pembagian (dilengkapi validasi pembagian dengan nol)[cite: 1]
-4. **Pengecekan Ganjil / Genap:** Menentukan klasifikasi bilangan bulat[cite: 1].
-5. **Akumulasi Deret Angka:** Menghitung jumlah elemen valid dan total penjumlahan dari satu baris input[cite: 1].
+   - Penjumlahan dan Pengurangan
+   - Perkalian dan Pembagian (dilengkapi validasi pembagian dengan nol)
+4. **Pengecekan Ganjil / Genap:** Menentukan klasifikasi bilangan bulat.
+5. **Akumulasi Deret Angka:** Menghitung jumlah elemen valid dan total penjumlahan dari satu baris input.
 6. **Sistem Sesi dan Logout:** Mendukung pergantian akun tanpa harus menghentikan jalannya program.
 
 ---
